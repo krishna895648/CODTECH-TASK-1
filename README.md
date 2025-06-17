@@ -1,4 +1,4 @@
-# CODTECH-TASK-1
+# CODTECH-TASKS
 8-bit Arithmetic Logic Unit (ALU) Project
 Overview
 This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog. The ALU supports the following operations:
